@@ -2,9 +2,9 @@
   "name": "vtta-qol",
   "title": "Virtual Tabletop Assets - Quality of Life",
   "description": "Small adjustments not meant to be released. Download at your own risk, no support or questions answered ;)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.5.6",
   "author": "Sebastian Will (vttassets@gmail.com)",
   "languages": [
     {
@@ -15,7 +15,8 @@
   ],
   "esmodules": ["./src/index.js"],
   "packs": [],
+  "styles": ["./css/default.css"],
   "url": "https://www.vttassets.com/asset/vtta-qol",
-  "manifest": " https://raw.githubusercontent.com/VTTAssets/vtta-qol/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/VTTAssets/vtta-qol/master/module.json",
   "download": "https://github.com/VTTAssets//vtta-qol/archive/master.zip"
 }
